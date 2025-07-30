@@ -77,18 +77,6 @@ You’re ready to go! 🎉
 
 ---
 
-## 🧠 Skills Gained
-
-- PHP + MySQL Integration  
-- Backend logic & routing  
-- Form validation with JS  
-- Frontend UI structuring  
-- Database design basics  
-- Full CRUD system from scratch  
-- GitHub version control and documentation
-
----
-
 ## ✅ Good for:
 
 - Web development internships  
